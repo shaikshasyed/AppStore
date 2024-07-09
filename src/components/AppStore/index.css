@@ -1,0 +1,51 @@
+.App-Store-container {
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+  height: 100vh;
+}
+.app-store-upper-part {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  font-size: 24px;
+  font-weight: bold;
+}
+.input-container {
+  height: 36px;
+  width: 200px;
+  padding: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border: 1px solid #7b8794;
+  border-radius: 4px;
+}
+.inputEle {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.tabs-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.App-Container {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
